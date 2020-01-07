@@ -7,8 +7,8 @@
 <meta property="og:site_name" content="babyparty" />
 <meta property="og:title" content="김봉재의 선거사무소에 초대합니다" />
 <meta property="og:description" content="2019년 1월 17일, 오셔서 김봉재의 도전을 응원해주세요!" />
-<meta property="og:image" content="https://cloud.githubusercontent.com/assets/16554116/12774533/375b55dc-ca89-11e5-9829-e5984d1d2efa.jpg" />
-<meta property="og:image" content="https://cloud.githubusercontent.com/assets/16554116/12774535/375cf090-ca89-11e5-8589-c69d0f62defb.jpg" />
+<meta property="og:image" content="https://user-images.githubusercontent.com/58526681/71904436-6f042c80-31a9-11ea-86a0-07c8f4d0f997.jpg" />
+<meta property="og:image" content="https://user-images.githubusercontent.com/58526681/71904445-74fa0d80-31a9-11ea-8fe6-1c386b453f92.jpg" />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="rmsidtest.github.io" />
 
@@ -189,9 +189,9 @@ body {
 		<div class="slide_wrap">
 			<div id="autoplay" style="display:none;">
 				<!-- //이미지 추가 -->
-				<img src="https://cloud.githubusercontent.com/assets/16554116/12774533/375b55dc-ca89-11e5-9829-e5984d1d2efa.jpg" class="img100" />
-				<img src="https://cloud.githubusercontent.com/assets/16554116/12774535/375cf090-ca89-11e5-8589-c69d0f62defb.jpg" class="img100" />
-				<img src="https://cloud.githubusercontent.com/assets/16554116/12774534/375c0694-ca89-11e5-8af1-88a7179c3ec1.jpg" class="img100" />
+				<img src="https://user-images.githubusercontent.com/58526681/71904430-6a3f7880-31a9-11ea-8d4d-7776b53f8ef2.jpg" />
+				<img src="https://user-images.githubusercontent.com/58526681/71904436-6f042c80-31a9-11ea-86a0-07c8f4d0f997.jpg" />
+				<img src="https://user-images.githubusercontent.com/58526681/71904445-74fa0d80-31a9-11ea-8fe6-1c386b453f92.jpg" />
 			</div>
 		</div>
 		<div class="content_wrap">
