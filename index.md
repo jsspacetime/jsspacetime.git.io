@@ -228,8 +228,6 @@ body {
 		<div class="copy">
 			© Copyright 2020, JSSPACE
 		</div>
-	</div>
-	
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
 	<script src="https://maps.googleapis.com/maps/api/js?signed_in=true"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.9/slick.min.js"></script>
@@ -284,5 +282,3 @@ body {
 	});
 	
 	</script>
-</body>
-</html>
