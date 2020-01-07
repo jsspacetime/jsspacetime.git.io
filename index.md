@@ -207,7 +207,7 @@ body {
 			<a href="mailto:rmsidtest@gmail.com" class="bg3"><img src="https://cdn4.iconfinder.com/data/icons/miu/24/common-email-envelope-mail-outline-stroke-128.png" alt="email" />이메일</a>
 		</div>
 		<div class="date_wrap">
-			<span><img src="https://cdn2.iconfinder.com/data/icons/office-38/24/office-40-128.png" alt="time" />&nbsp;<strong>초대일시 : </strong>2020년 01월 17일
+			&nbsp;<span><img src="https://cdn2.iconfinder.com/data/icons/office-38/24/office-40-128.png" alt="time" /><strong>초대일시 : </strong>2020년 01월 17일
 		<div class="addr_wrap">
 			<span><img src="https://cdn4.iconfinder.com/data/icons/miu/24/house-home-real_estate-property-glyph-128.png" alt="place" /><strong>초대장소</strong> : 구미시청 앞 건물 | 구미시 
 송정동</span>
