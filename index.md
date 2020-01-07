@@ -199,8 +199,7 @@ body {
 			항상 김봉재, 응원해 주시는 분들께<br />
 			감사의 말씀을 드립니다.<br />
 			구미의 새로운 미래를 위한 도전,<br />
-			구미 더불어갑 국회의원 예비후보 김봉재 <br /> 선거사무소 초대장을 보내드립니다.<br />
-		많은 성원과 관심부탁드립니다.
+			 더불어민주당 갑 지구 구미국회의원 예비후보 김봉재의 <br /> 선거사무소 초대장을 보내드립니다.<br /> 구미 시민 여러분의 많은 성원과 관심부탁드립니다.
 		</div>
 		<div class="contact_wrap">
 			<a href="tel:010-7107-7704" class="bg1"><img src="https://cdn4.iconfinder.com/data/icons/miu/24/device-iPhone-smartphone-vertical-glyph-128.png" alt="tel">응원하기</a>
@@ -208,7 +207,7 @@ body {
 			<a href="mailto:rmsidtest@gmail.com" class="bg3"><img src="https://cdn4.iconfinder.com/data/icons/miu/24/common-email-envelope-mail-outline-stroke-128.png" alt="email" />이메일</a>
 		</div>
 		<div class="date_wrap">
-			<span><img src="https://cdn2.iconfinder.com/data/icons/office-38/24/office-40-128.png" alt="time" /><strong>초대일시 : </strong>2020년 01월 17일
+			<span><img src="https://cdn2.iconfinder.com/data/icons/office-38/24/office-40-128.png" alt="time" />&nbsp;<strong>초대일시 : </strong>2020년 01월 17일
 		<div class="addr_wrap">
 			<span><img src="https://cdn4.iconfinder.com/data/icons/miu/24/house-home-real_estate-property-glyph-128.png" alt="place" /><strong>초대장소</strong> : 구미시청 앞 건물 | 구미시 
 송정동</span>
