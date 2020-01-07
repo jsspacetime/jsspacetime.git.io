@@ -10,7 +10,7 @@
 <meta property="og:image" content="https://user-images.githubusercontent.com/58526681/71904436-6f042c80-31a9-11ea-86a0-07c8f4d0f997.jpg" />
 <meta property="og:image" content="https://user-images.githubusercontent.com/58526681/71904445-74fa0d80-31a9-11ea-8fe6-1c386b453f92.jpg" />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="kimbongjae.github.io" />
+<meta property="og:url" content="jsspacetime.github.io" />
 
 <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/jquery.slick/1.5.9/slick.css"/>
 <style>
@@ -210,7 +210,7 @@ body {
 		<div class="date_wrap">
 			<span><img src="https://cdn2.iconfinder.com/data/icons/office-38/24/office-40-128.png" alt="time" /><strong>초대일시 : </strong>2020년 01월 17일
 		<div class="addr_wrap">
-			<span><img src="https://cdn4.iconfinder.com/data/icons/miu/24/house-home-real_estate-property-glyph-128.png" alt="place" />초대장소 : <strong>건물</strong> | 구미시 
+			<span><img src="https://cdn4.iconfinder.com/data/icons/miu/24/house-home-real_estate-property-glyph-128.png" alt="place" /><strong>초대장소</strong> : 구미시청 앞 건물 | 구미시 
 송정동</span>
 		</div>
 		<div class="map_wrap" id="map"></div>
