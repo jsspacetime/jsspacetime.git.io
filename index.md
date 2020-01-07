@@ -10,7 +10,7 @@
 <meta property="og:image" content="https://user-images.githubusercontent.com/58526681/71904436-6f042c80-31a9-11ea-86a0-07c8f4d0f997.jpg" />
 <meta property="og:image" content="https://user-images.githubusercontent.com/58526681/71904445-74fa0d80-31a9-11ea-8fe6-1c386b453f92.jpg" />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="rmsidtest.github.io" />
+<meta property="og:url" content="kimbongjae.github.io" />
 
 <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/jquery.slick/1.5.9/slick.css"/>
 <style>
